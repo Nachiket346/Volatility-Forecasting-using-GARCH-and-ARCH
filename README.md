@@ -1,7 +1,4 @@
-Project Overview:
-This project develops a volatility modeling and forecasting framework for the S&P 500 (SPX) using ARCH and GARCH models, replicating methodologies commonly applied in market risk measurement, portfolio risk analytics, and regulatory risk frameworks.
-
-The objective is to:
+Objective:
 Quantify time-varying conditional volatility.
 Compare short-memory vs persistent volatility dynamics.
 Generate forward-looking volatility forecasts suitable for VaR, ES, stress testing, and capital modeling.
